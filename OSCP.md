@@ -1,11 +1,11 @@
 # OSCP. Preparation.
-occultsec - The OSCP: A Process Focused Review
+occultsec -   The OSCP: A Process Focused Review
 https://occultsec.com/2018/04/27/the-oscp-a-process-focused-review/
 
-@hakluke - Hakluke’s Ultimate OSCP Guide
+@hakluke -    Hakluke’s Ultimate OSCP Guide
 https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440
 
-Nathu - Offensive Security Certified Professional (OSCP) Experience
+Nathu -       Offensive Security Certified Professional (OSCP) Experience
 http://nandtech.co/2017/11/07/offensive-security-pwk-experience/
 
 sock_raw - Offensive Security PWK course and OSCP exam review
