@@ -1,4 +1,4 @@
-OSCP. Preparation.
+# OSCP. Preparation.
 occultsec - The OSCP: A Process Focused Review
 https://occultsec.com/2018/04/27/the-oscp-a-process-focused-review/
 
@@ -20,32 +20,32 @@ https://tulpa-security.com/2016/09/19/prep-guide-for-offsecs-pwk/
 abatchy - How to prepare for PWK/OSCP, a noob-friendly guide 
 https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob.html
 
-OSCP. Cheat sheet
+# OSCP. Cheat sheet
 xapax 
 https://github.com/xapax
 
 ferreirasc
 https://github.com/ferreirasc/oscp
 
-OSCP. Exam rewiev
+# OSCP. Exam rewiev
 t911 - OSCP Exam Review
 https://timborninkhof.com/oscp-exam-review/
 
 
-OSCP. Tips
+# OSCP. Tips
 https://www.reddit.com/r/AskNetsec/comments/6jxndc/taking_oscp_exam/
 
 
 
-Breaking into InfoSec
+# Breaking into InfoSec
 s3ctur - Breaking into InfoSec: A Beginners Curriculum
 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum/
 
 
-BoF materials
+# BoF materials
 https://www.linkedin.com/feed/update/urn:li:activity:6373632085793574912/?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6373529584180260864%2C6373547399524216832%29
 
 
-OvertheWire 
+# OvertheWire 
 https://github.com/andigena/natas
 https://multiplex3r.github.io/
